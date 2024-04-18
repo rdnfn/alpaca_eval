@@ -1,0 +1,82 @@
+[
+    {
+        "instruction": "Do you prefer cats or dogs?",
+        "output_1": "Cats",
+        "output_2": "Dogs",
+        "preference": 1,
+        "annotator_index": 15,
+        "dataset": "custom_dataset",
+        "datasplit": "eval",
+        "generator": "dummy_model_01"
+    },
+    {
+        "instruction": "Do you prefer cats or dogs?",
+        "output_1": "Cats",
+        "output_2": "Dogs",
+        "preference": 1,
+        "annotator_index": 0,
+        "dataset": "custom_dataset",
+        "datasplit": "eval",
+        "generator": "dummy_model_01"
+    },
+    {
+        "instruction": "Do you prefer cats or dogs?",
+        "output_1": "Cats",
+        "output_2": "Dogs",
+        "preference": 1,
+        "annotator_index": 9,
+        "dataset": "custom_dataset",
+        "datasplit": "eval",
+        "generator": "dummy_model_01"
+    },
+    {
+        "instruction": "Do you prefer cats or dogs?",
+        "output_1": "Cats",
+        "output_2": "Dogs",
+        "preference": 2,
+        "annotator_index": 7,
+        "dataset": "custom_dataset",
+        "datasplit": "eval",
+        "generator": "dummy_model_01"
+    },
+    {
+        "instruction": "Should I get the blue or green box?",
+        "output_1": "Green",
+        "output_2": "Blue",
+        "preference": 1,
+        "annotator_index": 10,
+        "dataset": "custom_dataset",
+        "datasplit": "eval",
+        "generator": "dummy_model_02"
+    },
+    {
+        "instruction": "Should I get the blue or green box?",
+        "output_1": "Green",
+        "output_2": "Blue",
+        "preference": 2,
+        "annotator_index": 15,
+        "dataset": "custom_dataset",
+        "datasplit": "eval",
+        "generator": "dummy_model_02"
+    },
+    {
+        "instruction": "Should I get the blue or green box?",
+        "output_1": "Green",
+        "output_2": "Blue",
+        "preference": 1,
+        "annotator_index": 0,
+        "dataset": "custom_dataset",
+        "datasplit": "eval",
+        "generator": "dummy_model_02"
+    },
+    {
+        "instruction": "Should I get the blue or green box?",
+        "output_1": "Green",
+        "output_2": "Blue",
+        "preference": 2,
+        "annotator_index": 4,
+        "dataset": "custom_dataset",
+        "datasplit": "eval",
+        "generator": "dummy_model_02"
+    }
+]
